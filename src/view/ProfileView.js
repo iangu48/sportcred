@@ -35,7 +35,7 @@ const ProfileView = (props) => {
     setRefreshing(true);
     setACS(0);
     setRefreshing(false);
-    setACSHistory({});
+    setACSHistoryFetched(false);
   }, []);
 
   const getACS = () => {

@@ -87,7 +87,7 @@ export const DebateListView = (props) => {
 
         return (
             <>
-                <Text>Your response received a {p*100}% rating!</Text>
+                <Text>{isNaN(p) ? 'You have not received a rating yet.' : 'Your response received a ' + p*100+ '% rating!'}</Text>
                 <ProgressBar progress={p} color={c} style={{width: 350, marginVertical: 10}}/>
                 <Caption>{response}</Caption>
                 <Button onPress={hideModal}> Close </Button>

@@ -104,6 +104,7 @@ function IncomingChallenges({navigation, route}) {
 
   function load() {
     TriviaChallengeModel.getIncomingChallenges(user.uid).then((doc) => {
+      console.log(doc)
       // TriviaChallengeModel.getIncomingChallenges('user1').then((doc) => {
       let list = listState;
       const d = doc.data();
