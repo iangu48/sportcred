@@ -6,6 +6,9 @@ It is designed for sports lovers who wish to find a platform to share their thou
 
 The app allows any registered user to do trivia, predict brackets, debate, and publish/comment and/share posts for sports’ related content. It also tracks a user’s ability with a carefully calculated ACS score which serves as the primary metric to determine their proficiency as a sports analyst.
 
+# Demo
+Checkout our demo (at 0:34)
+[![Demo thumbnail](demo-thumbnail.png)](https://www.youtube.com/watch?v=XCNs67wb-lQ)
 
 ---
 # SETUP
