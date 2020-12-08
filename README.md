@@ -1,5 +1,15 @@
 # Sportcred MVP
 
+This app is a minimum viable product built for CSCC01 Fall 2020. 
+
+It is designed for sports lovers who wish to find a platform to share their thoughts and opinions with other similar persons. Sports lovers include the amateur fan, pro-analysts and athletes.
+
+The app allows any registered user to do trivia, predict brackets, debate, and publish/comment and/share posts for sports’ related content. It also tracks a user’s ability with a carefully calculated ACS score which serves as the primary metric to determine their proficiency as a sports analyst.
+
+
+---
+# SETUP
+
 https://reactnative.dev/docs/environment-setup
 
 Follow the **React Native CLI Quickstart** tab, then **Windows**, then **Android**. 
